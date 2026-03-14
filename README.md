@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Marijana 👋
 
-<!--
-**marijanatrbl/marijanatrbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graphic design student with an interest in web development and UX/UI.
 
-Here are some ideas to get you started:
+I enjoy combining visual design with frontend technologies to create clean and user-friendly websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech I'm currently using:
+- HTML
+- CSS
+- JavaScript
+- React
+- Python (Django basics)
+
+Projects:
+• Portfolio Website
+• Website Redesign – Triiiple Vienna
