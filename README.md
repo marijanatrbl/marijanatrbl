@@ -1,6 +1,6 @@
 Hi, I'm Marijana 👋
 
-Graphic design student with an interest in web development and UX/UI.
+Graphic designer with an interest in web development and UX/UI.
 
 I enjoy combining visual design with frontend technologies to create clean and user-friendly websites.
 
