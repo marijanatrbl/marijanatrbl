@@ -1,4 +1,4 @@
-Hi, I'm Marijana 👋
+Hi, I'm Marijana 🦖
 
 Graphic designer with an interest in web development and UX/UI.
 
